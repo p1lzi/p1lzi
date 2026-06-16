@@ -22,4 +22,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561199078954863)
+<!--![GRSS](https://github-readme-steam-card.vercel.app/status/?steamid=76561199078954863) -->
